@@ -30,4 +30,4 @@ Please note that this code is highly simplified and is intended for demonstratio
 This code is for educational and illustrative purposes only. It does not represent a complete or functional HVAC system. A real-world implementation would require specialized hardware, software, and engineering expertise.
 
 ## Contributors
-Sai K.  Caeden W. Katy W. 
+
