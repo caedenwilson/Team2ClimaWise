@@ -9,3 +9,5 @@ This website is designed to help users calculate their household energy usage an
 -Cost Estimation: The website provides an estimate of your monthly energy costs based on your consumption and local utility rates.
 
 -Energy-Saving Tips: Receive tailored suggestions on how to reduce your energy consumption, categorized by high, medium, and low impact.
+-Utilize time series forecasting to advise to customers by lowering usage in peak hours 
+
