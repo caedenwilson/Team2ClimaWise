@@ -1,6 +1,6 @@
 # ecohometrics.com
 ## Overview
-###Features
+### Features
 -Energy Consumption Calculator: Easily input your energy usage data to get an estimate of your household's monthly energy consumption in kWh.
 
 -Cost Estimation: The website provides an estimate of your monthly energy costs based on your consumption and local utility rates.
