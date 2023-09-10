@@ -1,5 +1,4 @@
 # ecohometrics.com
-![image](https://github.com/caedenwilson/Team2EcoHometrics/assets/123772632/96091602-f886-4afc-9907-34037cea6971)
 
 ## Overview
 ### Features
