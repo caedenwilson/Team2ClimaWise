@@ -1,2 +1,2 @@
-# ecohomemetrics.com
+# ecohometrics.com
 ## Overview
