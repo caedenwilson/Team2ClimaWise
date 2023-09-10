@@ -10,7 +10,7 @@ This website is designed to help users calculate their household energy usage an
 
 -Energy-Saving Tips: Receive tailored suggestions on how to reduce your energy consumption, categorized by high, medium, and low impact.
 
--Utilize Machine Learning and Time Series Forecasting to help customers by lowering usage in peak hours.
+-Using AI: Utilize Machine Learning and Time Series Forecasting to help customers by lowering usage in peak hours.
 
--Enhance electricity usage efficiency for current homeowners and assist prospective homebuyers in choosing energy-efficient houses.
+-Hepling New Home Buyers: Enhance electricity usage efficiency for current homeowners and assist prospective homebuyers in choosing energy-efficient houses.
 
